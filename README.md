@@ -1,10 +1,12 @@
-# Hi, I'm Gloria Djonret
+# Hi, I'm Gloria Djonret 👋
 
-Software Engineer and Computer Vision Researcher with an M.S. in Software Engineering and a B.S. in Computer Engineering from San José State University.
+### Software Engineer | AI & Computer Vision Researcher | Building software for space 🚀
 
-I build software across **backend systems, AI/ML, computer vision, and embedded systems**.
+I'm a software engineer with an **M.S. in Software Engineering** and a **B.S. in Computer Engineering** from San José State University.
 
-Currently, I’m working on an **AI-powered lunar imaging pipeline for nanosatellites**, focusing on crescent detection, frame quality assessment, image fusion, and low-light enhancement.
+My work sits at the intersection of **software engineering, artificial intelligence, computer vision, embedded systems, and aerospace technology**.
+
+Currently, I'm working on an **AI-powered lunar crescent imaging pipeline for nanosatellites**, developing onboard computer vision techniques for image detection, frame quality assessment, multi-frame fusion, and low-light enhancement.
 
 ## Tech
 
